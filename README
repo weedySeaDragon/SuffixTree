@@ -12,6 +12,10 @@ quite a bit in many elegant string algorithms.  Since this is a
 wrapper around strmat.stree, most of the documentation in
 doc/stree.doc should apply.
 
+Installation:
+
+   1. Download
+   2. Compile:  > python setup.py build
 
 Here are the modules included in the SuffixTree package:
 
